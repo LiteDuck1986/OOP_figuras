@@ -50,6 +50,8 @@ public class Figuras {
 		if (izvele == -1)
 			izvele = 0;
 		
+		System.out.println(izvele);
+		
 		switch(izvele) {
 		
 		case 0:
