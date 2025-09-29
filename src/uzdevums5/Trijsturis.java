@@ -4,7 +4,7 @@ public class Trijsturis {
 	public double mala1, mala2, mala3;
 	public Centrs punkts;
 	
-	public Trijsturis(Centrs p, double m1, double m2, double m3) {
+	public Trijsturis(Centrs p, int m1, int m2, int m3) {
 		punkts = p;
 		mala1 = m1;
 		mala2 = m2;
