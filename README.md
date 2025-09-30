@@ -7,7 +7,7 @@
 - [x] Izveidot klasi Aplis
 - [x] Izveidot klasi Trijsturis
 - [ ] Izveidot klasi Figuras
-- [ ] Izveidot klasi OIzveide
-- [ ] Nodrošināt jauna objekta izveidi
-- [ ] Nodrošināt esošo objektu aplūkošanu
+- [X] Izveidot klasi OIzveide
+- [X] Nodrošināt jauna objekta izveidi
+- [X] Nodrošināt esošo objektu aplūkošanu
 - [ ] Nodrošināt metožu izsaukšanu
